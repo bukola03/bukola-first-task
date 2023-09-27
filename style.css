@@ -1,0 +1,15 @@
+.images {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+  }
+  
+  .images img {
+    width: 100%;
+    height: auto;
+  }
+
+  h1{
+    margin-bottom: 60px;
+  }
+  
